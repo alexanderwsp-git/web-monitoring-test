@@ -1,0 +1,27 @@
+{
+    "name": "web-monitoring-test",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/alexanderwsp-git/web-monitoring-test.git"
+    },
+    "keywords": [
+        "Web",
+        "Monitoring"
+    ],
+    "author": "Alexander Samaniego",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexanderwsp-git/web-monitoring-test/issues"
+    },
+    "homepage": "https://github.com/alexanderwsp-git/web-monitoring-test#readme",
+    "description": "",
+    "devDependencies": {
+        "electron": "^31.2.1"
+    }
+}
